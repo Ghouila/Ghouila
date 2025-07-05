@@ -5,9 +5,15 @@
 I am a passionate 5th-year Engineering Student specializing in **Applied Mathematics** at **INSA Toulouse**. My key focus areas are **Deep Reinforcement Learning**, **Machine Learning**, and **Data Science**. I have hands-on experience in building complex AI models and applying advanced algorithms to solve real-world problems, especially in Deep RL. Currently, I am seeking a 6-month final-year internship starting in February or March 2024.
 
 ### 🔬 What I Do
-- **Deep Reinforcement Learning**: Mastered key algorithms such as PPO, DQN, and Actor-Critic, applying them in research at CNRS Toulouse. Currently working on using Deep RL and autoencoders to estimate bedrock beneath the Antarctic ice sheet.
-- **Machine Learning & Data Science**: Developed solutions in **image colorization**, **object detection** (Fast R-CNN, YOLO), and **natural language processing** (BERT, text classification).
-- **Model Deployment**: Proficient in deploying AI models using **Flask**, **Docker**, and cloud platforms like **Google Cloud**.
+I apply a consistent, domain‑agnostic AI workflow to solve real‑world problems across physics, vision, telecom and NLP:
+
+Frame & Prep: Translate requirements into clear objectives, then curate and normalize data (signals, images, logs, text).
+
+Architect & Train: Select and adapt models—autoencoders/contrastive nets for features, RL agents (PPO/DQN) for control, YOLO for vision, transformers for text—using efficient training and validation.
+
+Optimize & Deploy: Quantize and containerize (Flask/FastAPI + Docker), delivering real‑time performance on standard hardware or cloud.
+
+Monitor & Iterate: Instrument pipelines to track metrics, diagnose failures, and rapidly retrain or fine‑tune for sustained accuracy.
 
 ### 🛠 Professional Experience
 - **Deep Reinforcement Learning Intern, CNRS Toulouse (June 2024 - September 2024)**  
@@ -16,10 +22,10 @@ I am a passionate 5th-year Engineering Student specializing in **Applied Mathema
   Maintained IT systems and ensured data confidentiality.
 
 ### 🔧 Projects
-- **Image Colorization**: Created and deployed a WebApp for image colorization using Flask and Docker.
-- **Object Detection**: Detected objects using Fast R-CNN for images and YOLO for video-based applications.
-- **Deep RL in Antarctica**: Applied Deep Reinforcement Learning and autoencoders to estimate bedrock under the Antarctic ice sheet.
-- **NLP Pipeline**: Built a complete text preprocessing and classification pipeline using BERT, including fine-tuning and vectorization.
+- **Deep Reinforcement Learning**: Implemented and tested PPO and DQN variants for inverse modeling of ice–rock interactions at CNRS Toulouse.  
+- **Machine Learning & Computer Vision**: Deployed a Flask + Docker WebApp for real‑time detection of micro‑fissures (YOLOv5 + contrastive encoder) on industrial video streams.  
+- **Retrieval‑Augmented Generation**: Built a pipeline combining dense vector search and an LLM to answer technical FAQs within Orange’s network tools.  
+- **Antarctic Bedrock Estimator**: Autoencoder + PPO pipeline to map ice–rock interfaces.  
 
 ### 🚀 Skills
 - **Technical**: Deep Reinforcement Learning, NLP, CNNs, RNNs, Recommendation Systems, Docker, Flask, MlOps, Google Cloud.
