@@ -2,16 +2,18 @@
 
 🎓 **Engineer in Applied Mathematics and AI, studying at INSA Toulouse.**  
 
-I am a passionate 5th-year Engineering Student specializing in **Applied Mathematics** at **INSA Toulouse**. My key focus areas are **Deep Reinforcement Learning**, **Machine Learning**, and **Data Science**. I have hands-on experience in building complex AI models and applying advanced algorithms to solve real-world problems, especially in Deep RL. Currently, I am seeking a 6-month final-year internship starting in February or March 2024.
+I’m finishing my engineering degree in Applied Mathematics and AI at INSA Toulouse. Over the past year I’ve completed internships at CNRS and Orange, where I built and deployed Deep RL and new data models.
 
 ### 🔬 What I Do
-I apply a consistent, domain‑agnostic AI workflow to solve real‑world problems across physics, vision, telecom and NLP:
+I apply a consistent, domain‑agnostic AI workflow to solve real‑world problems across physics, computer vision, telecom and NLP:
 - Frame & Prep: turn real‑world requirements (physics, vision, telecom, text) into clear objectives and normalize diverse data (signals, images, logs, text).  
 - Architect & Train: adapt core AI blocks—autoencoders & contrastive nets for features, PPO/DQN for control, YOLO for vision, transformers for language—to each domain’s needs.  
 - Optimize & Deploy: quantize & containerize (Flask/FastAPI + Docker), enabling real‑time inference on standard hardware or cloud
 - Monitor & Iterate: track key metrics, identify edge‑case failures, and rapidly retrain or fine‑tune for production reliability
 
 ### 🛠 Professional Experience
+- **Data Scientist internship, Orange, Meylan (February 2025 - August 2025)**
+  Developed a novel modular data model for network header compression, improving efficiency and adaptability over the state of the art.
 - **Deep Reinforcement Learning Intern, CNRS Toulouse (June 2024 - September 2024)**  
   Worked on optimizing control problems using Deep RL, with a focus on physics-based inverse problems.
 - **IT Support Service Agent (August 2019 - September 2019)**  
