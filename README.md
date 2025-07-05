@@ -8,8 +8,8 @@ I am a passionate 5th-year Engineering Student specializing in **Applied Mathema
 I apply a consistent, domain‑agnostic AI workflow to solve real‑world problems across physics, vision, telecom and NLP:
 - Frame & Prep: turn real‑world requirements (physics, vision, telecom, text) into clear objectives and normalize diverse data (signals, images, logs, text).  
 - Architect & Train: adapt core AI blocks—autoencoders & contrastive nets for features, PPO/DQN for control, YOLO for vision, transformers for language—to each domain’s needs.  
-- Optimize & Deploy: quantize & containerize (Flask/FastAPI + Docker), enabling real‑time inference (e.g., 30 FPS on CPU) on standard hardware or cloud 🐳⚡️ :contentReference[oaicite:0]{index=0}  
-- Monitor & Iterate: track key metrics, identify edge‑case failures, and rapidly retrain or fine‑tune for production reliability ⏱️🔄 :contentReference[oaicite:1]{index=1}
+- Optimize & Deploy: quantize & containerize (Flask/FastAPI + Docker), enabling real‑time inference on standard hardware or cloud
+- Monitor & Iterate: track key metrics, identify edge‑case failures, and rapidly retrain or fine‑tune for production reliability
 
 ### 🛠 Professional Experience
 - **Deep Reinforcement Learning Intern, CNRS Toulouse (June 2024 - September 2024)**  
